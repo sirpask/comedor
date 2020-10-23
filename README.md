@@ -36,4 +36,5 @@ export const environment = {
 };
 asi quedaria.
 
-8.- configurar app module> app.module.ts y ya todo el codigo.
+8.- configurar app module> app.module.ts y ya todo el codigo. 
+ ojo: dentro de este proyecto hay una carpeta con el fuente del ejemplo con los ficheros que hay que tocar: Note/Ejemplo_d_que_ficheros _hay_que_tocar
